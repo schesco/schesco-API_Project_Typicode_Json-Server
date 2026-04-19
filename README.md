@@ -1,6 +1,7 @@
 # JSON Server API Client
 
-Ein professioneller Python‑API‑Client mit Logging, Error‑Handling und CI/CD‑Pipeline.
+Lokale REST‑API basierend auf JSON Server (typicode/json-server)  
+Die API stellt CRUD‑Endpunkte bereit, die aus einer db.json generiert werden.
 
 ## Features
 - OOP‑API‑Client (GET, POST, PUT, PATCH, DELETE)
